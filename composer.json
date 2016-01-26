@@ -1,0 +1,13 @@
+{
+  "name": "shortlist-digital/acf-typography",
+  "type": "wordpress-plugin",
+  "description": "Wordpress plugin for Shortlist Media.",
+  "license": "MIT",
+  "require": {
+    "michelf/php-smartypants": "^1.6@beta"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "minimum-stability": "dev"
+}
